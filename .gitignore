@@ -42,4 +42,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.dll
-GuiTests/GuiTests/bin/Debug/GuiTests.pdb
+GuiTests/GuiTests/bin/*
+GuiTests/GuiTests/obj/*
